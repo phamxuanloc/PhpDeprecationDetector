@@ -48,7 +48,7 @@ Another way to install _phpdd_ is via composer.
 
 2. Install phpdd in global composer dir:
   ```sh
-  ./composer.phar global require wapmorgan/php-deprecation-detector dev-master
+  ./composer.phar global require phamxuanloc/php-deprecation-detector dev-master
   ```
 
 3. Run from any folder:
