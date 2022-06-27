@@ -2,10 +2,6 @@
 
 PhpDeprecationDetector - analyzer of PHP code to search usages of deprecated functionality in newer interpreter versions - deprecations detector.
 
-[![Latest Stable Version](https://poser.pugx.org/wapmorgan/php-deprecation-detector/v/stable)](https://packagist.org/packages/wapmorgan/php-deprecation-detector)
-[![Total Downloads](https://poser.pugx.org/wapmorgan/php-deprecation-detector/downloads)](https://packagist.org/packages/wapmorgan/php-deprecation-detector)
-[![License](https://poser.pugx.org/wapmorgan/php-deprecation-detector/license)](https://packagist.org/packages/wapmorgan/php-deprecation-detector)
-
 PhpDeprecationDetector detects:
 - Usage of deprecated **functions, variables, constants and ini-directives**.
 - Usage of deprecated **functions functionality**.
